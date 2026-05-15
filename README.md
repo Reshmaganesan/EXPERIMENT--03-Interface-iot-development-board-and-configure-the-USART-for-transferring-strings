@@ -196,9 +196,9 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-	  printf("212224040027\n");
-	  printf("ANS NERLING EMIMA\n");
-	  printf("CSE DEPT\n");
+	  printf("212224040273\n");
+	  printf("RESHMA G\n");
+	  printf("CSE\n");
 	  HAL_Delay(500);
     /* USER CODE BEGIN 3 */
   }
